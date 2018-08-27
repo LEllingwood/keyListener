@@ -1,0 +1,9 @@
+ #box {
+     width: 100px;
+     height: 100px;
+     position: absolute;
+     background: gray;
+     left: 200px;
+     top: 200px;
+     background-image: url("https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/chemistexpla.jpg");
+ }
